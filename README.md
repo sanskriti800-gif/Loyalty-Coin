@@ -3,7 +3,7 @@
 * It is basically a reward given to our loyal customers.
 * Our application insight into your contribution and provide you with a coin
 
-# Advatages
+# Advantages
 
 * "LOYAL CUSTOMER" gets a membership program for a valid time which needs to be renewed timely.
 * Also, On festival offer they will get benefits 

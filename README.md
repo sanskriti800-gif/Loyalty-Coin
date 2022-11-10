@@ -15,7 +15,7 @@
 * We work on the factor of Reusability of your money 
 * We bring out the best for you 
 
-#Implementation
+# Implementation
 
 * Libraries - Matplotlib’s Pyplot library, Altair, Plotly GraphViz, Pandas, Numpy, CSV.
 * Data VisualizationFramework - Streamlit
